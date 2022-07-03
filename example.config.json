@@ -1,0 +1,5 @@
+{
+    "token": "your-bot-token-goes-here",
+    "prefix": "your-bot-prefix-goes-here",
+    "mongooseConnectionString": "your-mongoose-connection-url"
+}
