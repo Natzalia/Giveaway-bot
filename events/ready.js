@@ -51,7 +51,7 @@ client.on("ready", async () => {
     
                     let count = await gSchema.aggregate([
                             {
-                                $match : { MessageID : interaction.message.id } 
+                                $match : { MessageID : msg } 
                             },
                             {
                                 $project: {
