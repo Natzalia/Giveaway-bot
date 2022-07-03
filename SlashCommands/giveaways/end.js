@@ -55,7 +55,7 @@ module.exports = {
 
             let count = await Schema.aggregate([
                 {
-                    $match : { MessageID : interaction.message.id } 
+                    $match : { MessageID : id } 
                 },
                 {
                     $project: {
