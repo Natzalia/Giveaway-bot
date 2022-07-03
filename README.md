@@ -41,6 +41,9 @@ node index.js
 replit is not recommended to host the bot, since it needs a database.
 You can get free hosting services in our [support server](https://discord.gg/ZMsu5H6ett) by joining our weekly giveaways
 
+## Public version
+Try out the public version of the bot [here](https://discord.com/api/oauth2/authorize?client_id=993075786510774362&permissions=2147575872&scope=bot%20applications.commands)
+
 ## Steps to support me
 - You can join our [support server](https://discord.gg/ZMsu5H6ett)
 - You can boost our server, or contribute by donating a Nitro giveaway
