@@ -45,7 +45,7 @@ client.on("interactionCreate", async (interaction) => {
         const time = data.Time
     
         if (interaction.customId === 'entry') {
-            const userData = await Schema.findOne({ MessageID: interaction.message.id, Users: [`${interaction.user.id}`] });
+            const userData = await Schema.findOne({ MessageID: interaction.message.id, Users: {"$in": [interaction.user.id]} }); 
             if (userData) {
                 await interaction.followUp({ content: `You already joined this giveaway!`, ephemeral: true })
             } else {
