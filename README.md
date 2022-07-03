@@ -39,6 +39,7 @@ node index.js
 
 ## Hosting the bot 
 replit is not recommended to host the bot, since it needs a database.
+
 You can get free hosting services in our [support server](https://discord.gg/ZMsu5H6ett) by joining our weekly giveaways
 
 ## Public version
