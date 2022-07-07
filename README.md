@@ -1,5 +1,6 @@
 # Giveaway-bot
 An easy to use open source giveaway bot using discord buttons and Slash commands, and mongoose as database.
+Without using any npm libraries like `discord-giveaway`, this project was made from scratch
 
 ## Credits 
 This source code is created by Natalia, and If using this code, please make sure to credit me!
