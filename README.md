@@ -4,6 +4,7 @@ Without using any npm libraries like `discord-giveaway`, this project was made f
 
 ## Credits 
 This source code is created by Natalia, and If using this code, please make sure to credit me!
+Handler was created by [reconlx](https://github.com/reconlx), make sure to check out their work!
 
 ## Requirements
 To use this open source, you will need:
